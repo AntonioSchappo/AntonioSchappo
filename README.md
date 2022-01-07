@@ -2,14 +2,14 @@
 
 Please note that this is a work in progress🌱...
 
-🔭 I’m currently working on a backend project of a Blog management API using NodeJs and Sequelize
+🔭 I’m currently working on a group project using the SCRUM Agile methodology. We are building a beverage delivery app with 3 different user flows (consumer, seller, administrator). We are using many different technologies. Such as NodeJs, Sequelize, Socket.IO, Express, ReactJS and Express
 
 🌱 I’m currently learning JAVA and Socket.IO
 
 📫 How to reach me: 
     https://www.linkedin.com/in/antonio-schappo/
 
-⚡ Fun fact: ...The goose was the first bird to be domesticated by man. An ancient story tells how a flock of white geese raised the alarm when Rome was attacked by the Gauls, and thus saved the city. Source: http://www.birdwatchersdigest.com/bwdsite/solve/faqs/20things.php
+⚡ Fun fact: ...New Zealand was the last country in the world to be discovered and settled by humankind. The last habitable landmass of any size to remain unpeopled. It is the last country on earth to have been inhabited permanently by humans. Source: http://nationaltrust.org.nz/tv-ads-new-zealand/behind-the-scenes-nz/
 
 Please do come back soon😄
 
