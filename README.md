@@ -4,7 +4,7 @@ Please note that this is a work in progress🌱...
 
 🔭 I’m currently working on a group project using the SCRUM Agile methodology. We are building a beverage delivery app with 3 different user flows (consumer, seller, administrator). We are using many different technologies. Such as NodeJs, Sequelize, Socket.IO, Express, ReactJS and Express
 
-🌱 I’m currently learning JAVA and Socket.IO
+🌱 I’m currently learning Java and Python
 
 📫 How to reach me: 
     https://www.linkedin.com/in/antonio-schappo/
