@@ -4,7 +4,7 @@
 
 🌱 I’m currently studying and coding in Golang.
 
-- 🌱 I’m currently learning more about observability and tracing with tools such as Datadog and New Relic.
+🌱 I’m currently learning more about observability and tracing with tools such as Datadog and New Relic.
 
 📫 How to reach me: 
     https://www.linkedin.com/in/antonio-schappo/
