@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working as Backend Software Engineer at Mercado Livre.
+🔭 I’m currently working as Fullstack Software Engineer at Mercado Livre.
+
+🌱 I have recently started a bachelor´s degree in Software Engineering at FIAP.
 
 🌱 I’m currently studying and coding in Golang.
 
-🌱 I’m currently learning more about concurrency and multithread processing.
+🌱 I’m currently learning more about Frontend Software Development.
 
 📫 How to reach me: 
     https://www.linkedin.com/in/antonio-schappo/
